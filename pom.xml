@@ -91,7 +91,7 @@
 									<!-- Use the line below to point to your firefox binary on a linux system 
 									<browser>*firefox /home/tfn/firefox/firefox-bin</browser>
 									 -->
-									<startURL>http://www.google.com/</startURL>
+									<startURL>https://www.google.com/</startURL>
 								</configuration>
 							</execution>
 							<!-- Execution for running tests with Internet Explorere
