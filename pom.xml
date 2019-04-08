@@ -87,7 +87,7 @@
 								</goals>
 								<configuration>
 									<suite>src/test/selenium/TestSuite.html</suite>
-									<browser>*firefox</browser>
+									<browser>firefox</browser>
 									<!-- Use the line below to point to your firefox binary on a linux system 
 									<browser>*firefox /home/tfn/firefox/firefox-bin</browser>
 									 -->
